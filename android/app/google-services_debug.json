@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087321401615",
+    "project_id": "noteeapp-14b11",
+    "storage_bucket": "noteeapp-14b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087321401615:android:aeca360b05d4d12305b67a",
+        "android_client_info": {
+          "package_name": "com.notee.cuzou_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087321401615-47c3cu94f07d68mhqa99n65c66pttt6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD8YPfxmd2HXXJ-jUj8ePLsaYx52pG4jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087321401615-47c3cu94f07d68mhqa99n65c66pttt6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
